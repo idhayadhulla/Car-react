@@ -4,6 +4,7 @@
     "description": "",
     "keywords": [],
     "main": "src/components/index.js",
+    "nain":"src/components/index.html",
     "dependencies": {
       "react": "16.8.6",
       "react-dom": "16.8.6",
